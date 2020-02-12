@@ -1,0 +1,26 @@
+{
+  "name": "design_patterns",
+  "version": "1.0.0",
+  "description": "Code for the Design Patterns Refactory bootcamp module",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "jest": "^25.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KaluleKevin96/designPatterns.git"
+  },
+  "author": "Kalule Kevin Kamanzi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KaluleKevin96/designPatterns/issues"
+  },
+  "homepage": "https://github.com/KaluleKevin96/designPatterns#readme"
+}
