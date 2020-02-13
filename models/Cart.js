@@ -8,7 +8,8 @@ class Cart {
     }
 
     addCartItem(item) {
-        this.items.push(item)
+
+     this.items.push(item)
     }
 
     //function to print info about one particular item

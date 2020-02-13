@@ -1,3 +1,4 @@
+//ADAPTOR to be a go between between a Laptop (item on the shelf) and cart item (an item in the cart)
 const CartItem = require('./CartItem');
 
 class LaptopAdaptor extends CartItem {
